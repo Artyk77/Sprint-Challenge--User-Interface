@@ -1,0 +1,27 @@
+1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+
+It is important because Semantics is concerned with the meaning of the tags and attributes that you use to build your web pages. 
+Through the legacy evolution of running scripts in HTML over time. Web developers realized the need to shift to 
+semantic web development in order to start defining what our webpages mean through proper use of HTML, 
+which in turn allowed computers to make more sense of our content. This was only the beginning, however, and leads us directly to HTML5.
+
+In other words, semantic HTML is HTML that contains meaning in and of itself, beyond any content that it might be marking up. 
+Semantic HTML lets the browser understand what the tag contains, and so will you.
+
+2. Name two big differences between display: block; and display: inline;.
+
+The big difference is that an element with display: inline; cannot have a height or a width or a vertical margin. 
+An element with display: block; can have a width, height and margin.
+
+3. What are the 4 areas of the box model?
+
+Margin, Border, Padding, Content. MBPC
+
+4. While using flexbox, what axis does the following property work on: align-items: center?
+
+Cross axis
+
+5. Explain why git is valuable to a team of developers.
+
+Git is valuable because softdev can work together and build in different instances of development for the same program/project. It keep team of softdev
+organized, allow us to fork and branch. These two amazing features will allows us to deliver projects in time and keep track of bugs as well.
